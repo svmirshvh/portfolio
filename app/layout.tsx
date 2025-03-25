@@ -11,7 +11,19 @@ export const metadata: Metadata = {
   title: "Sameer Alam | Software Engineer",
   description:
     "Portfolio website of Sameer Alam, a Software Engineer specializing in Next.js, React, and full-stack development",
-  generator: "v0.dev",
+  // generator: "v0.dev",
+  icons: "/pp.jpg",
+  openGraph: {
+    url: "https://svmirshvh.vercel.app/",
+    images: [
+      {
+        url: "weblancestudios.jpg",
+        width: 800,
+        height: 600,
+        // alt: data.name,
+      },
+    ],
+  },
 };
 
 export default function RootLayout({
