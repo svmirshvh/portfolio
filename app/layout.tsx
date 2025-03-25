@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     url: "https://svmirshvh.vercel.app/",
     images: [
       {
-        url: "/weblancestudios.jpg",
+        url: "https://svmirshvh.vercel.app/weblancestudios.jpg",
         width: 800,
         height: 600,
         // alt: data.name,
