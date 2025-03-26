@@ -18,7 +18,7 @@ const experiences = [
       "Collaborated with frontend developers to ensure seamless integration between backend systems and user interfaces.",
     ],
     technologies:
-      "JavaScript, Next.js, React.js, Python, Django, Node.js, AWS EC2, Route 53, Load balancers, Postgres",
+      "JavaScript, Next.js, React.js, Python, Django, Node.js, AWS EC2, Route 53,CI/CD,Load balancing (ALB/ELB),Scalable PixelStreaming, NGINX, Docker",
   },
   {
     title: "Software Engineer",
